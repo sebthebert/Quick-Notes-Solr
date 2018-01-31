@@ -1,0 +1,74 @@
+[
+{
+"host": "server01",
+"rule": "ruleA"
+"status": "KO"
+"date": "20180110"
+},
+{
+"host": "server01",
+"rule": "ruleB"
+"status": "KO"
+"date": "20180110"
+},
+{
+"host": "server01",
+"rule": "ruleC"
+"status": "OK"
+"date": "20180110"
+},
+{
+"host": "server02",
+"rule": "ruleA"
+"status": "KO"
+"date": "20180110"
+},
+{
+"host": "server02",
+"rule": "ruleB"
+"status": "OK"
+"date": "20180110"
+},
+{
+"host": "server02",
+"rule": "ruleC"
+"status": "OK"
+"date": "20180110"
+},
+{
+"host": "server01",
+"rule": "ruleA"
+"status": "OK"
+"date": "20180130"
+},
+{
+"host": "server01",
+"rule": "ruleB"
+"status": "KO"
+"date": "20180130"
+},
+{
+"host": "server01",
+"rule": "ruleC"
+"status": "OK"
+"date": "20180130"
+},
+{
+"host": "server02",
+"rule": "ruleA"
+"status": "OK"
+"date": "20180130"
+},
+{
+"host": "server02",
+"rule": "ruleB"
+"status": "OK"
+"date": "20180130"
+},
+{
+"host": "server02",
+"rule": "ruleC"
+"status": "OK"
+"date": "20180130"
+}
+]
